@@ -21,7 +21,7 @@
 {"userId":{"_eq":"X-Hasura-User-Id"}}
 ```
 
-Also create hasura JWT secret (write secret phrase with length > 32 chars) and import all secret and api key to `.env.local` file
+Also create hasura JWT secret (write secret phrase with length > 32 chars) and import all secret and api key to `.env.local` file.
 Same with Magiclink:
 
 1. Create account

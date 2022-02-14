@@ -1,0 +1,182 @@
+{
+  "kind": "youtube#searchListResponse",
+  "etag": "ZKGw48eP1DgotCs_0mRIsXeIY6g",
+  "nextPageToken": "CAUQAA",
+  "regionCode": "CA",
+  "pageInfo": {
+    "totalResults": 1000000,
+    "resultsPerPage": 5
+  },
+  "items": [
+    {
+      "kind": "youtube#searchResult",
+      "etag": "MRpOV759dCIinPINEI9KcIDJgR0",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "-wpFSpNbDW0"
+      },
+      "snippet": {
+        "publishedAt": "2018-05-13T11:09:54Z",
+        "channelId": "UCO4Nw0vUpxgb0zsziJ1SaMg",
+        "title": "Video Editing for Beginners (Using Windows PC!)",
+        "description": "Complete video editing tutorial for non-editors on WINDOWS PC! Learn video editing for beginners and a ton of video editing tips ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/-wpFSpNbDW0/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/-wpFSpNbDW0/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/-wpFSpNbDW0/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Justin Brown - Primal Video",
+        "liveBroadcastContent": "none",
+        "publishTime": "2018-05-13T11:09:54Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "C72CZ4HqmHEOgz3KAQEVYi8yPos",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "ZQDGJn89uNk"
+      },
+      "snippet": {
+        "publishedAt": "2020-04-28T20:10:01Z",
+        "channelId": "UCw9zJ3qnebPPGsutiEAvu5Q",
+        "title": "8 Steps to Edit a Video in Premiere Pro (Start to Finish)",
+        "description": "To join the Full Time Filmmaker Course OR watch our FREE one-hour filmmaking training: ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/ZQDGJn89uNk/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/ZQDGJn89uNk/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/ZQDGJn89uNk/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Parker Walbeck",
+        "liveBroadcastContent": "none",
+        "publishTime": "2020-04-28T20:10:01Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "l183u9_oq_0BizHIR48qa-iXdpg",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "UtrlyHDgk-8"
+      },
+      "snippet": {
+        "publishedAt": "2021-01-08T12:06:31Z",
+        "channelId": "UCaSM4GqhbaVmRT7fmmFmR1w",
+        "title": "Top 5 Best FREE VIDEO EDITING Software (2021)",
+        "description": "The best FREE VIDEO EDITORS for Windows, Mac, and Linux… Whether you're a beginner needing something simple for ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/UtrlyHDgk-8/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/UtrlyHDgk-8/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/UtrlyHDgk-8/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "TechGumbo",
+        "liveBroadcastContent": "none",
+        "publishTime": "2021-01-08T12:06:31Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "eux87edk91woz9aVgHyoOCJJT5E",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "oC3gXr1s_aU"
+      },
+      "snippet": {
+        "publishedAt": "2018-09-11T17:43:19Z",
+        "channelId": "UCkRfArvrzheW2E7b6SVT7vQ",
+        "title": "Total Beginner’s Guide to Video Editing",
+        "description": "So your first shoot is complete - but how do you turn your footage into a great video? It's all at your fingertips with the power of ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/oC3gXr1s_aU/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/oC3gXr1s_aU/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/oC3gXr1s_aU/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "YouTube Creators",
+        "liveBroadcastContent": "none",
+        "publishTime": "2018-09-11T17:43:19Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "cYNGEKU4TfwchLM7A_JbDGWbTH8",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "iB8PK2POssE"
+      },
+      "snippet": {
+        "publishedAt": "2021-05-19T07:00:10Z",
+        "channelId": "UCfJT_eYDTmDE-ovKaxVE1ig",
+        "title": "🎬 5 BEST FREE Video Editing Software",
+        "description": "In this step-by-step tutorial, learn about the best 5 free video editors. First, I show you how to use a video editor that comes for free ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/iB8PK2POssE/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/iB8PK2POssE/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/iB8PK2POssE/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Kevin Stratvert",
+        "liveBroadcastContent": "none",
+        "publishTime": "2021-05-19T07:00:10Z"
+      }
+    }
+  ]
+}

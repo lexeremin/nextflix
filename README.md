@@ -35,7 +35,6 @@ MAGIC_SERVER_KEY=<key>
 NEXT_PUBLIC_HASURA_ADMIN_URL=<url>
 NEXT_PUBLIC_HASURA_ADMIN_SECRET=<key>
 JWT_SECRET=<key>
-
 ```
 
 To prevent limit of requests in youtube api set this enviromental varible in `.env.local` file:

@@ -46,7 +46,7 @@ DEVELOPMENT=true
 This way data will be fetched from `./data/videos.json`
 
 When you done with previous steps run:
-`npm init`
+`npm install`
 to install packages.
 
 Then run `npm run dev` to lauch Nextflix app in dev mode.
